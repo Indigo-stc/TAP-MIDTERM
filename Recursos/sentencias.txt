@@ -1,0 +1,27 @@
+INSERT INTO examen_bdB.producto
+(cantidad, descripcion, precion)
+VALUES(20, "Luces multicolor", 20.50),
+(50, "Luces multicolor", 20.50),
+(20, "Cable de fibra optica", 100.50),
+(20, "Pantalla VA/rgb", 500.50),
+
+{
+  "codigo": 0,
+  "descripcion": "Luces multicolo",
+  "precion": 20.50,
+  "cantidad": 50
+}
+
+{
+  "codigo": 0,
+  "descripcion": "Cable de fibra optica",
+  "precion": 100.50,
+  "cantidad": 20
+}
+
+{
+  "codigo": 0,
+  "descripcion": "Pantalla VA/rgb",
+  "precion": 500.50,
+  "cantidad": 20
+}
