@@ -25,3 +25,6 @@ VALUES(20, "Luces multicolor", 20.50),
   "precion": 500.50,
   "cantidad": 20
 }
+
+
+https://drive.google.com/file/d/1zbY2FzqRc-NcJaJ2mMx-RqW6vNQNAvUG/view?usp=sharing
